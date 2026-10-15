@@ -1,0 +1,16 @@
+# Engagement-Daten & Mitschnitte (niemals committen!)
+engagements/
+*.pcap
+*.pcapng
+*.cap
+*.csv
+
+# Logs, Historie & Config
+*.log
+.wireshark_*_history*
+.wireshark_*.conf
+
+# Temporäres
+*.tmp
+*.old
+*~
